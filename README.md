@@ -1,0 +1,1 @@
+Run `sass --watch styles/` from app directory to watch and compile sass files

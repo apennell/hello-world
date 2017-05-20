@@ -1,0 +1,12 @@
+$primary-font: Helvetica, sans-serif;
+$primary-color: #1f262d;
+$green: #34dbad;
+
+body {
+	font-family: $primary-font;
+	color: $primary-color;
+}
+
+h1{
+	color: $green;
+}
